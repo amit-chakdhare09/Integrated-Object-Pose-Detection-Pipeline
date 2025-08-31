@@ -1,8 +1,8 @@
 ---
 
-# Real-Time Object & Human Pose Detection 🕵️‍♂️🚗
+# Integrated-Object-Pose-Detection-Pipeline 🕵️‍♂️🚗
 
-A cutting-edge project that **detects and highlights objects** (like humans, cars, etc.) using **YOLOv8**, while simultaneously tracking **human skeletal landmarks** using **MediaPipe Pose**. This demonstrates how combining multiple ML frameworks enables efficient **real-time object and pose analysis**.
+A project that **detects and highlights objects** (like humans, cars, etc.) using **YOLOv8**, while simultaneously tracking **human skeletal landmarks** using **MediaPipe Pose**. This demonstrates how combining multiple ML frameworks enables efficient **real-time object and pose analysis**.
 
 ---
 
