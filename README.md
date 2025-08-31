@@ -21,7 +21,8 @@ A cutting-edge project that **detects and highlights objects** (like humans, car
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/real-time-object-pose.git
+https://github.com/amit-chakdhare09/Integrated-Object-Pose-Detection-Pipeline.git
+
 cd real-time-object-pose
 ```
 
