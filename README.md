@@ -22,6 +22,12 @@ A project that **tracks human movements in real-time video** using **YOLOv8** fo
 
 ---
 
+### Demo Video
+<video width="480" controls>
+  <source src="yolo(1)(1)(1).mp4" type="video/mp4">
+</video>
+
+
 ## Usage
 
 ```bash
