@@ -22,8 +22,6 @@ A project that **detects and highlights objects** (like humans, cars, etc.) usin
 
 ```bash
 https://github.com/amit-chakdhare09/Integrated-Object-Pose-Detection-Pipeline.git
-
-cd real-time-object-pose
 ```
 
 2. **Install dependencies**
